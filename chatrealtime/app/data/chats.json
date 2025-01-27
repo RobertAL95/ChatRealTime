@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Juan Pérez",
+      "lastMessage": "Hola, ¿cómo estás?",
+      "messages": [
+        { "text": "Hola, ¿cómo estás?", "fromUser": false }
+      ]
+    },
+    {
+      "name": "María López",
+      "lastMessage": "¿Qué tal el proyecto?",
+      "messages": [
+        { "text": "¿Qué tal el proyecto?", "fromUser": false }
+      ]
+    }
+  ]
+  
